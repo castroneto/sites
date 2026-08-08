@@ -1,0 +1,13 @@
+{
+  "name": "Camarão Regional",
+  "short_name": "Camarão Regional",
+  "description": "Frutos do mar, carnes e massas em Fortaleza desde 2013.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1f3d",
+  "theme_color": "#0a1f3d",
+  "icons": [
+    { "src": "assets/favicon-32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
